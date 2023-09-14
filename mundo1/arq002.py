@@ -1,1 +1,0 @@
-print('Só de boa')
