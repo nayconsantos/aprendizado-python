@@ -1,4 +1,3 @@
-import math
 n1 = int(input('Digite um numero: '))
 dob = n1 * 2
 tri = n1 * 3
